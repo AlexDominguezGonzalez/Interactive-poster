@@ -78,4 +78,4 @@ Todos los eventos se registran con `addEventListener()`:
 
 ## Captura
 
-![Cartel completo](captura.png)
+![Cartel completo](captura-cartel.png)
